@@ -1,49 +1,30 @@
 # 👋 Hi there, I'm Joaquín
 
-I'm a beginner web developer from Chile, currently learning how the web works — step by step.
+I'm a beginner web developer from Chile, taking my first steps into the world of coding and building for the web — one project at a time.
 
 ## 🚀 What I'm Learning
-
-I'm focusing on:
-
-- 🧱 HTML & CSS  
-- ⚙️ JavaScript fundamentals  
-- 🎨 UI/UX principles  
-- 🛠️ Basic tools like Git, GitHub, and VS Code
-
-I'm learning through a mix of free resources, self-paced study, and government-sponsored courses.
+Currently focusing on:
+- 🧱 HTML & CSS (improving structure and styling skills)
+- ⚙️ JavaScript fundamentals and DOM manipulation
+- 🛠️ Development tools like Git, GitHub, and VS Code
+- 📚 Soon learning Java & Spring Boot through a 14-week bootcamp
 
 ## 🧩 What I Can Do (So Far)
-
-Right now, I'm:
-
-- Reading and editing existing code  
-- Recreating simple web pages  
-- Practicing how to structure HTML and style with CSS  
-- Exploring how JavaScript interacts with the DOM  
-- Taking notes and building small things as I go
+- Read and edit existing code with growing confidence
+- Recreate simple, functional web pages
+- Structure HTML and style with CSS
+- Experiment with JavaScript to add interactivity
+- Take notes and build small, practical projects while learning
 
 ## 🌱 Goals
-
-- Build beginner-friendly projects (tools, pages, or just experiments)  
-- Share my progress and code clearly  
-- Learn React once I’m confident with JavaScript  
-- Create a personal portfolio to showcase my journey  
-- Find my first opportunity in web development
-
-## 📌 Projects Coming Soon
-
-I'll be uploading:
-
-- 🗂️ Mini websites (practice projects)  
-- 📋 Simple UI components  
-- 🛠️ Useful tools for learners like me  
-- 🎨 UX-focused experiments
+- Keep improving my fundamentals
+- Practice by building different types of projects
+- Explore new technologies and broaden my skill set
+- Create a portfolio to showcase my progress
+- Land my first opportunity in web development
 
 ## 🤝 Let’s Connect
-
 If you're also learning or want to share resources, tips, or feedback, feel free to reach out.
 
 ---
-
-Thanks for stopping by! 🚧
+> "Always curious, always learning."
