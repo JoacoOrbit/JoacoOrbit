@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Joaquín
 
-I'm a beginner web developer from Chile, taking my first steps into the world of coding and building for the web — one project at a time.
+I'm a beginner web developer from Chile, taking my first steps into the world of coding and building for the web.
 
 ## 🚀 What I'm Learning
 Currently focusing on:
