@@ -61,5 +61,6 @@ My goal is to grow as a **full-stack developer with a strong backend foundation*
 ## 📫 Contact
 
 **LinkedIn:** [https://www.linkedin.com/in/joaquin-araya-dev/](https://www.linkedin.com/in/joaquin-araya-dev/)
+
 **Email:** [joaquin.arayavega.com](mailto:joaquin.arayavega@gmail.com)
 
