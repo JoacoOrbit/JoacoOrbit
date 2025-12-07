@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Joaquín — Junior Full-Stack Developer (Java Focus)
 
 I'm a junior full-stack developer from Chile working with **Java, Spring Boot, MySQL, HTML, CSS and JavaScript**.
+
 I enjoy building complete web solutions, but I naturally lean toward **backend development** and understanding how things work behind the scenes.
 
 ---
@@ -8,9 +9,13 @@ I enjoy building complete web solutions, but I naturally lean toward **backend d
 ## 🔧 Tech Stack
 
 **Backend:** Java · Spring Boot · Spring MVC · JPA/Hibernate · JSP
+
 **Frontend:** HTML · CSS · JavaScript
+
 **Database:** MySQL
+
 **Tools:** Git · GitHub · Trello · IntelliJ IDEA · VS Code
+
 **Other:** Google Gemini API · MVC pattern
 
 ---
@@ -48,6 +53,7 @@ Small exercises and mini-apps to practice:
 ## 🌱 My Focus
 
 I enjoy exploring new technologies, understanding how things work deeply, and creating small but useful projects.
+
 My goal is to grow as a **full-stack developer with a strong backend foundation**.
 
 ---
