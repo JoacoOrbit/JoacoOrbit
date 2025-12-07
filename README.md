@@ -14,7 +14,7 @@ I enjoy building complete web solutions, but I naturally lean toward **backend d
 
 **Database:** MySQL
 
-**Tools:** Git · GitHub · Trello · IntelliJ IDEA · VS Code
+**Tools:** Git · GitHub · Trello · VS Code
 
 **Other:** Google Gemini API · MVC pattern
 
