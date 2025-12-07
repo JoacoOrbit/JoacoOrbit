@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joaquín — Junior Full-Stack Developer (Java Focus)
+# 👋 Hi, I'm Joaquín - Junior Full-Stack Developer (Java Focus)
 
 I'm a junior full-stack developer from Chile working with **Java, Spring Boot, MySQL, HTML, CSS and JavaScript**.
 
@@ -22,7 +22,7 @@ I enjoy building complete web solutions, but I naturally lean toward **backend d
 
 ## 📌 Projects
 
-### 🔹 **GlicemIA – Bootcamp Final Project (Full-Stack / Backend role)**
+### 🔹 **GlicemIA - Bootcamp Final Project (Full-Stack / Backend role)**
 
 * Built an **AI-powered chatbot** using the Gemini API
 * Worked with controllers, services and JSP views
